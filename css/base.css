@@ -1,0 +1,31 @@
+main{
+    border: 1px solid gray;
+    max-width: 767px;
+    margin: 0 auto;
+}
+div{
+    border: 1px solid gray; 
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0;
+    
+}
+
+
+@media only screen and (min-width: 768px) {
+
+    main{
+        border: 1px solid gray;
+        max-width: 960px;
+        margin: 0 auto;
+    }
+    div{
+        border: 1px solid gray; 
+        text-align: center;
+        margin: 0 auto;
+        box-sizing: border-box;
+        padding: 0;
+        
+    }
+}
