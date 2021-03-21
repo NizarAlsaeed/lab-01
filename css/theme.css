@@ -1,0 +1,61 @@
+
+#a{
+    background-color: green;
+}
+#b{
+    background-color: indianred;
+}
+#c{
+    background-color: indigo;
+}
+#d{
+    background-color: lightblue;
+}
+#e{
+    background-color: midnightblue;
+}
+#f{
+    background-color: orange;
+}
+#g{
+    background-color:yellowgreen;
+}
+#h{
+    background-color: darkred;
+}
+#i{
+    background-color: deepskyblue;
+}
+
+@media only screen and (min-width: 768px) {
+
+    
+    #a{
+        background-color: rgba(0, 128, 0, 0.541);
+    }
+    #b{
+        background-color: rgba(205, 92, 92, 0.514);
+    }
+    #c{
+        background-color: rgba(76, 0, 130, 0.507);
+    }
+    #d{
+        background-color: rgba(40, 52, 56, 0.493);
+    }
+    #e{
+        background-color: rgba(25, 25, 112, 0.507);
+    }
+    #f{
+        background-color: rgba(255, 166, 0, 0.5);
+    }
+    #g{
+        background-color:rgba(153, 205, 50, 0.521);
+    }
+    #h{
+        background-color: rgba(139, 0, 0, 0.493);
+    }
+    #i{
+        background-color: rgba(0, 191, 255, 0.363);
+    }
+
+}
